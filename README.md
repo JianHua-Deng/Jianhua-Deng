@@ -32,4 +32,5 @@ Feel free to reach out to me! I am always down to chat about anything, such as w
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JianHua-Deng&layout=compact&theme=dracula&hide_border=true&include_all_commits=true" alt="Top Languages" />
 </p>
 
-Languages: C++, JavaScript/TypeScript, Python, 
+### Languages 
+C++, JavaScript/TypeScript, Python
