@@ -32,7 +32,7 @@ Feel free to reach out to me! I am always down to chat about anything, such as w
 
 ---
 
-### 📊 My GitHub Stats
+### 📊
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JianHua-Deng&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="Jianhua Deng's GitHub Stats" />
