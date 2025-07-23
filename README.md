@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB6dWZ6a2V0dHF2cHJmc2Nlcm12dWVzeDVqYm1pZHAxNnJzdm52eCZlcD12aWRlb19zZWFyY2hfaWQmY3Q9Zw/bGgsc5hpueFgs/giphy.gif" width="200"/>
 </p>
 
-[cite_start]I'm currently a Computer Science student at **CUNY Hunter College** [cite: 4][cite_start], and . Basically, I enjoy writing code.
+I'm currently a Computer Science student at **CUNY Hunter College**, and . Basically, I enjoy writing code.
 
 When I'm not wrestling with a rogue semicolon or questioning my life choices in front of a terminal, you can usually find me deep in a new anime series or hunting for the next great comic. My goal is to build something that I can brag to my future kids about.
 
